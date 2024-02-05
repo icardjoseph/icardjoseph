@@ -1,0 +1,39 @@
+.static{
+    width:200px;
+    height:200px;
+    background-color:blue ;
+}
+.absolute{
+    width:200px;
+    height:200px;
+    background-color:yellow;
+}
+.relative{
+    width:200px;
+    height:200px;
+    background-color:pink;
+}
+.fixed{
+    width:200px;
+    height:200px;
+    background-color:green;
+}
+.sticky{
+    width:200px;
+    height:200px;
+    background-color:brown;
+}
+ul{
+    height:600px;
+    border: 3px solid red;
+    flex-direction:row;      
+    align-items:end;
+}
+li{
+    width: 100px;
+    height: 100px;
+    border:2px solid green;
+    margin: 10px;
+    padding: 10px;
+
+}
